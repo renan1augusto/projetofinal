@@ -1,7 +1,13 @@
 # Projeto Final - Programação Web
 
-## TEMA: 
-O projeto será baseado em um aplicativo de notas, como o Google Keep
+## Tema: 
+O projeto será baseado em um aplicativo de notas, como o Google Keep, Evernote ou Notion. Ele permitirá criar, editar e organizar notas de forma simples e intuitiva.
+
+## Escopo:
+- Desenvolvimento de uma interface para criação de notas;
+- Sistema básico de organização por categorias;
+- Funcionalidades de adicionar, editar e excluir notas;
+- Armazenar os dados do usuário.
 
 ## Participantes:
 * **[Gutemberg Pereira dos Santos](https://github.com/guuutzzz333)** - Elaboração e Entrega do Planejamento do
