@@ -1,8 +1,8 @@
-#⚙ Projeto Final - Programação Web
+# Projeto Final - Programação Web
 
-##📖 TEMA: O projeto será baseado em um aplicativo de notas, como o Google Keep
+## TEMA: O projeto será baseado em um aplicativo de notas, como o Google Keep
 
-##👥 Participantes:
+## Participantes:
 
 * **[Gutemberg Pereira dos Santos](https://github.com/guuutzzz333)** - Elaboração e Entrega do Planejamento do
 Projeto, Interface Front-End
