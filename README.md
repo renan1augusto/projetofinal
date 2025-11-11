@@ -10,7 +10,7 @@ Projeto, Interface Front-End
 dados, Funcionalidades e Sistema
 Administrador Back-End
 
-##Changelog / Atualizações
+## Changelog / Atualizações
 
 [0.0.0] - 11-11-2025
 - Equipe foi formada;
