@@ -11,11 +11,11 @@ O projeto será baseado em um aplicativo de notas, como o Google Keep, Evernote 
 
 ## Participantes:
 * **[Gutemberg Pereira dos Santos](https://github.com/guuutzzz333)** - Elaboração e Entrega do Planejamento do
-Projeto, Interface Front-End
+Projeto, Interface (Front-End)
 * **[Renan Augusto](https://github.com/renan1augusto)** - Banco de
 dados, Funcionalidades e Sistema
 Administrador Back-End
-
+* **[Guilherme Galdino](https://github.com/guilhermegaldino7)** - Auxiliar de ambos os colaboradores acima (Fullstack)
 ## Changelog / Atualizações:
 
 [0.0.0] - 11-11-2025
