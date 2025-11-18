@@ -18,6 +18,14 @@ Administrador (Back-End)
 * **[Guilherme Galdino](https://github.com/guilhermegaldino7)** - Auxiliar de ambos os colaboradores acima (Fullstack)
 ## Changelog / Atualizações:
 
+[0.0.5] - 18-11-2025
+
+Foi criado o primeiro protótipo do projeto:
+
+- **Renan:** Criou o sistema de cadastro de usuários e configurou o banco de dados inicial;
+- **Guilherme:** Criou o sistema de validação de login e configurou a página inicial do usuário cadastrado;
+- **Gutemberg:** Criou a interface inicial.
+
 [0.0.0] - 11-11-2025
 - Equipe foi formada;
 - Tema foi definido;
