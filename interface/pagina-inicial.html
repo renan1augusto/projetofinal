@@ -1,0 +1,82 @@
+<main class="container">
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #11111b;
+            color: white;
+        }
+        .btn {
+            background-color: #04a5e5;
+            color: white;
+            padding: 10px 15px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .btn:hover {
+            background-color: #0c0f1a;
+        }
+
+        .topo {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .lista-notas {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .nota-card {
+            background-color: #f9e2af;
+            color:  #181825;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .nota-card h3 {
+            margin-top: 0;
+        }
+
+        .acoes {
+            margin-top: 10px;
+        }
+
+        .acoes a {
+            margin-right: 10px;
+            text-decoration: none;
+            color: #04a5e5;
+        }
+
+        .acoes a.btn-excluir {
+            color:#d20f39;
+        }
+    </style>
+
+    <div class="topo">
+        <h2>Minhas Notas</h2>
+        <a class="btn" href="nova-nota.html">+ Nova Nota</a>
+    </div>
+
+    <!-- Lista fake (placeholders) -->
+    <div class="lista-notas">
+
+        <div class="nota-card">
+            <h3>Título da Nota</h3>
+            <p>Resumo da nota...</p>
+
+            <div class="acoes">
+                <a href="visualizar-nota.html">Ver</a>
+                <a href="editar-nota.html">Editar</a>
+                <a href="#" class="btn-excluir">Excluir</a>
+            </div>
+        </div>
+
+    </div>
+</main>
