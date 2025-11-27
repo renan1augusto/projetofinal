@@ -4,19 +4,31 @@
             margin: 0;
             padding: 20px;
             font-family: Arial, Helvetica, sans-serif;
-            background-color: #11111b;
+            background-color: #030303;
             color: white;
         }
+
         .btn {
             background-color: #04a5e5;
-            color: white;
+            color: white !important;
             padding: 10px 15px;
             text-decoration: none;
             border-radius: 5px;
+            display: inline-block;
+            font-weight: bold;
         }
 
         .btn:hover {
             background-color: #0c0f1a;
+        }
+
+        .btn-excluir {
+            background-color: #d20f39 !important;
+            color: white !important;
+        }
+
+        .btn-excluir:hover {
+            background-color: #8b0b26 !important;
         }
 
         .topo {
@@ -34,8 +46,9 @@
 
         .nota-card {
             background-color: #f9e2af;
-            color:  #181825;
+            color: #181825;
             padding: 15px;
+            border-color: #df8e1d;
             border-radius: 5px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
@@ -45,17 +58,9 @@
         }
 
         .acoes {
-            margin-top: 10px;
-        }
-
-        .acoes a {
-            margin-right: 10px;
-            text-decoration: none;
-            color: #04a5e5;
-        }
-
-        .acoes a.btn-excluir {
-            color:#d20f39;
+            margin-top: 15px;
+            display: flex;
+            gap: 10px;
         }
     </style>
 
@@ -72,9 +77,9 @@
             <p>Resumo da nota...</p>
 
             <div class="acoes">
-                <a href="visualizar-nota.html">Ver</a>
-                <a href="editar-nota.html">Editar</a>
-                <a href="#" class="btn-excluir">Excluir</a>
+                <a href="visualizar-nota.html" class="btn">Ver</a>
+                <a href="editar-nota.html" class="btn">Editar</a>
+                <a href="#" class="btn-excluir btn">Excluir</a>
             </div>
         </div>
 
