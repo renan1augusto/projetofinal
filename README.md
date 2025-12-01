@@ -18,6 +18,13 @@ Administrador (Back-End)
 * **[Guilherme Galdino](https://github.com/guilhermegaldino7)** - Auxiliar de ambos os colaboradores acima (Fullstack)
 ## Changelog / Atualizações:
 
+[0.1.0] - 26-11-2025
+
+Conclusão do projeto:
+
+- **Renan/Guilherme:** Configuração final do banco de dados;
+- **Gutemberg:** Criação da interface final. Escreveu um roteiro para a apresentação do projeto.
+
 [0.0.5] - 18-11-2025
 
 Foi criado o primeiro protótipo do projeto:
